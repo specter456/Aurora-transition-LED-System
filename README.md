@@ -32,4 +32,4 @@ In Progress: Connecting the HC-SR501 PIR motion sensor.
 - Improve power efficiency.
 
 ## Demo
-https://drive.google.com/file/d/1ZFVmcUz5M9w1_XEE5t3uahsSVlLZHY__/view?usp=drive_link
+https://drive.google.com/file/d/1sPZe_uyiGgirpuAqjqaKC0rnoYO2vl0V/view?usp=drive_link
