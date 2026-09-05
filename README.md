@@ -2,7 +2,7 @@
 
 ###### Aurora - Reactive LED Transition System
 ## Project Overview
-# Aurora is an Arduino-based LED system designed to smoothly change colors to reduce eye strain in healthcare environments. The goal is to automate lighting in emergency rooms so medical staff don't have to manually turn on lights.
+ Aurora is an Arduino-based LED system designed to smoothly change colors to reduce eye strain in healthcare environments. The goal is to automate lighting in emergency rooms so medical staff don't have to manually turn on lights.
 # Design Evolution: I initially planned to use a sound/snap sensor. However, I realized doctors and nurses in emergency rooms are too busy to snap their fingers to turn on lights. I switched to a PIR motion sensor to make the system completely hands-free and practical for a high-stress environment.
 # Current Status
 ### Working: NeoPixel LED ring with smooth color transitions.
