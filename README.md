@@ -42,4 +42,4 @@ Finding hidden hardware problems: When my boards stopped working, they didn't sh
  Optimize power efficiency for longer hospital use.
  
 ## Demo
-[Paste your Google Drive lin
+https://drive.google.com/file/d/1AWbDaywREZkUAUqgewdG5LhLoJQwTTi9/view?usp=sharing
