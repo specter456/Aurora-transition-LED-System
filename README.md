@@ -52,7 +52,7 @@ https://drive.google.com/file/d/1AWbDaywREZkUAUqgewdG5LhLoJQwTTi9/view?usp=shari
 ## Screenshots
 ![LED lights](arduino lights 3.jpg)(arduino lights 2.jpg)(arduino lights 1.jpg)
 
-![Arduino ongoing code]()
+![Arduino ongoing code](arduino code.png)
 
 ![Arduino present code]()
 
