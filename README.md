@@ -12,7 +12,7 @@
  
  In Progress: Refining the physical casing and power management.
 
- ## 🔧 Tech Stack
+ ##  Tech Stack
 - Arduino Uno
 - WS2812B LED Strip
 - C++ (Arduino IDE)
@@ -49,7 +49,7 @@ Finding hidden hardware problems: When my boards stopped working, they didn't sh
 ## Demo
 https://drive.google.com/file/d/1AWbDaywREZkUAUqgewdG5LhLoJQwTTi9/view?usp=sharing
 
-## 📸 Screenshots
+## Screenshots
 
 ### LED Transitions
 ![LED Lights 1](arduino_lights_1.jpg)
