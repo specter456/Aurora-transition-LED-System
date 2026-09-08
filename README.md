@@ -11,7 +11,12 @@
  Working: PIR motion sensor successfully triggers the lights.
  
  In Progress: Refining the physical casing and power management.
- 
+
+ ## 🔧 Tech Stack
+- Arduino Uno
+- WS2812B LED Strip
+- C++ (Arduino IDE)
+
 ## Components Used
  Arduino Uno
  
@@ -43,3 +48,9 @@ Finding hidden hardware problems: When my boards stopped working, they didn't sh
  
 ## Demo
 https://drive.google.com/file/d/1AWbDaywREZkUAUqgewdG5LhLoJQwTTi9/view?usp=sharing
+
+## Screenshots
+![LED lights]
+![Arduino ongoing code]()
+![Arduino present code]()
+
