@@ -29,7 +29,7 @@
 ## How It Works
  Programming: Written in Arduino IDE using the Adafruit NeoPixel library.
  
- Core Function: Smoothly fades between magenta, blue, and white light to prevent visual discomfort.
+ Core Function: Smoothly fades between purple, blue, and white light to prevent visual discomfort.
  
  Goal: Automatically turn on and adjust lights when a doctor or patient enters the room.
  
