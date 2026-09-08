@@ -49,10 +49,16 @@ Finding hidden hardware problems: When my boards stopped working, they didn't sh
 ## Demo
 https://drive.google.com/file/d/1AWbDaywREZkUAUqgewdG5LhLoJQwTTi9/view?usp=sharing
 
-## Screenshots
-![LED lights](arduino lights 3.jpg)(arduino lights 2.jpg)(arduino lights 1.jpg)
+## 📸 Screenshots
 
-![Arduino ongoing code](arduino code.png)
+### LED Transitions
+![LED Lights 1](arduino_lights_1.jpg)
 
-![Arduino present code](Arduino_present_code.png)
+![LED Lights 2](arduino_lights_2.jpg)
 
+![LED Lights 3](arduino_lights_3.jpg)
+
+### Code Screenshots
+![Arduino Code](arduino_code.png)
+
+![Arduino Present Code](Arduino_present_code.png)
