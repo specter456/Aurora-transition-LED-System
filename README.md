@@ -10,7 +10,7 @@
  
  Working: PIR motion sensor successfully triggers the lights.
  
- In Progress: Refining the physical casing and power management.
+ In Progress: Refining the physical casing, power management and troubleshooting PIR motion sensor
 
  ##  Tech Stack
 - Arduino Uno
